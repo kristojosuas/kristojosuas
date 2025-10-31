@@ -2,7 +2,7 @@
 
 ## My name is **Kristo Josua Simangunsong**
 
-I'm a *Undergraduate Informatics Student at Universitas Pembangunan Nasional Veteran Jakarta* since 2021 with a passion for data analytics and a little bit back-end. I ahve strong interest in transforming raw data into meaningful insights through powerful visualizations and interactive dashboards.
+I'm a *Undergraduate Informatics Student at Universitas Pembangunan Nasional Veteran Jakarta* since 2021 with a passion for data analytics and a little bit back-end. I have strong interest in transforming raw data into meaningful insights through powerful visualizations and interactive dashboards.
 
 ## Web Portfolio
 
