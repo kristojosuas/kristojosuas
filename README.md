@@ -8,7 +8,7 @@ I'm a *Undergraduate Informatics Student at Universitas Pembangunan Nasional Vet
 
 You can check out my web portfolio to see some of the projects I've worked on:
 
-🌐 [My Portfolio](https://kristojosuas.github.io/)
+🌐 [Data Analyst Portfolio](https://kristojosuas.github.io/)
 
 Feel free to explore the projects and get in touch if you have any questions or collaboration opportunities.
 
